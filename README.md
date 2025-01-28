@@ -14,7 +14,7 @@ This guide will help you maintain and customize the ProfitSites PR landing page.
 The header contains your company name and navigation menu:
 
 ```html
-<div class="text-2xl font-bold text-blue-600">ProfitSites PR</div>
+<div class="text-3xl font-bold text-blue-600">ProfitSites PR</div>
 ```
 
 To change the company name:
